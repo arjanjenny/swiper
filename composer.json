@@ -1,0 +1,15 @@
+{
+    "name": "lagman/swiper",
+    "description": "Swiper - Mobile touch slider with hardware accelerated transitions",
+	"homepage": "https://github.com/russianlagman/swiper",
+    "authors": [
+        {
+            "name": "Alexey Samoylov",
+            "email": "alexey.samoylov@gmail.com"
+        }
+    ],
+	"licenses": [
+        "GPL",
+		"MIT"
+    ]
+}
